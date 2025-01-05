@@ -1,0 +1,5 @@
+An existing file template may be missing from the list if this is a
+custom template whose filename extension (template extension) does
+not match the registered patterns of any of the recognized file types.
+In such a case, you may want to register the corresponding pattern for an existing
+recognized file type or add a new file type and register the corresponding pattern for this new type aaaaaaaaaaaaa
